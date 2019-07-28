@@ -1,5 +1,5 @@
 # .github.io
-SunTzu says personal blog
+SunTzu says personal site and blog
 
 ## Install
 ```

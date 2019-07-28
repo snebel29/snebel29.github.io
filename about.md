@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+This site was created with an initial idea in mind:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Share my projects, learn and help others doing so through [the Feynman's technique](https://forum.artofmemory.com/t/how-to-use-the-feynman-technique/32488)
 
-There are currently two themes built on Poole:
+Similar to a blog but open to revision and contributions, as you possible noticed English is not my main language so fixing sentences and typos is also welcome.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+The whole site is hosted using github pages in my [github]({{ site.github.repository_url }}) and therefore, stars, issues and pull requests are welcome, all using simple [markdown](https://www.markdownguide.org/basic-syntax/) syntax.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The site is named upon military strategist, writter and phylosopher [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) who is often credited for writting [The art of war](https://en.wikipedia.org/wiki/The_Art_of_War), you may often find quotes of the book.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+> *"If you know the enemy and know yourself you need not fear the result of a hundred battles" Sun Tzu.*
