@@ -19,7 +19,7 @@ Every time there is a change into kubernetes resources manifests an event is gen
 
 For example to be notified on every change being done to your deployments and services on [slack](https://slack.com) simply [Install kwatchman](https://github.com/snebel29/kwatchman#installation) using its helm chart.
 
-> :warning: To get notifications in slack you have to [configure it first](https://github.com/snebel29/kwatchman#the-slack-handler)
+> &#9888; To get notifications in slack you have to [configure it first](https://github.com/snebel29/kwatchman#the-slack-handler)
 
 Please note that the default values does not include the slack handler, so you will have to configure it, uncomment the [following lines](https://github.com/snebel29/kwatchman/blob/e51de050e1662b8e1a03812b6d24d799ae00f573/build/chart/kwatchman/values.yaml#L31-L37) and add your webhook url, you can configure the resources that you want to watch [here](https://github.com/snebel29/kwatchman/blob/e51de050e1662b8e1a03812b6d24d799ae00f573/build/chart/kwatchman/values.yaml#L19-L23), all within the helm chart values.yaml file, when you are ready redeploy kwatchman with the new changes.
 
