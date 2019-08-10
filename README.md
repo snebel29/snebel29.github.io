@@ -11,3 +11,9 @@ $ bundle install
 ```
 $ bundle exec jekyll serve
 ```
+## Publish
+```
+$ git add --all
+$ git commit -m "Adding post"
+$ git push origin master
+```
