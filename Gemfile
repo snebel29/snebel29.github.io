@@ -8,4 +8,5 @@ group "plugins" do
   gem "pygments.rb"
   gem "jekyll-gist"
   gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
 end

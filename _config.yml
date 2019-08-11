@@ -25,4 +25,4 @@ defaults:
     values:
       image: /public/suntzusays_landscape.png
 
-plugins: [jekyll-paginate, jekyll-gist, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-gist, jekyll-seo-tag, jekyll-sitemap]
