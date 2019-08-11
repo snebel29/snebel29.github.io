@@ -18,4 +18,11 @@ author:
 
 paginate:         5
 
-plugins: [jekyll-paginate, jekyll-gist]
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /public/suntzusays.png
+
+plugins: [jekyll-paginate, jekyll-gist, jekyll-seo-tag]

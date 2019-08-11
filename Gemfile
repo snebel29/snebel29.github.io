@@ -7,4 +7,5 @@ group "plugins" do
   gem "redcarpet"
   gem "pygments.rb"
   gem "jekyll-gist"
+  gem 'jekyll-seo-tag'
 end

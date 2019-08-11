@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Watch for kubernetes resources changes and trigger handlers using kwatchman
+description: Watch for kubernetes resources changes and trigger handlers using kwatchman
 ---
 
 What is the real [Cost of Change](https://www.newnettechnologies.com/whitepaper/nnt-whitepaper-problem-with-itil-change-management-process.pdf) ?

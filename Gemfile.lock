@@ -250,6 +250,7 @@ DEPENDENCIES
   jekyll
   jekyll-gist
   jekyll-paginate
+  jekyll-seo-tag
   pygments.rb
   redcarpet
 
