@@ -8,12 +8,12 @@ permalink:        pretty
 title:            SunTzu says
 tagline:          '孙武说'
 description:      斯文
-url:              https://suntzusays.dev/
+url:              https://suntzusays.dev
 baseurl:          /
 
 author:
   name:           'Sven Nebel'
-  url:            https://suntzusays.dev/
+  url:            https://suntzusays.dev
   github:         https://github.com/snebel29
 
 paginate:         5
