@@ -23,6 +23,6 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /public/suntzusays.png
+      image: /public/suntzusays_square.png
 
 plugins: [jekyll-paginate, jekyll-gist, jekyll-seo-tag]
