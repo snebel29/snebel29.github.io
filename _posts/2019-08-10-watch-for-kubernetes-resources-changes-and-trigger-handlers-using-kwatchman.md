@@ -37,7 +37,7 @@ Of course you can customize other values and even create your own handlers!
 
 Still lost? this is how changing the number of replicas in the cluster would cause kwatchman to trigger a notification in slack
 
-<img src="https://raw.githubusercontent.com/snebel29/kwatchman/master/img/demo.gif">
+<img src="https://raw.githubusercontent.com/snebel29/kwatchman/e05c02fc50d87f2eeaab05470409862c26113cd4/img/demo.gif">
 
 The strategy ahead with kwatchman is to focus on change management, providing semantic differences by creating a structure holding the list of changes that would available to the handlers for applying logic based on them, such as if this thing changed do this, etc.
 
