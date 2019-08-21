@@ -18,7 +18,7 @@ It has decent [usage limits](https://help.github.com/en/articles/what-is-github-
 
 1. Create a repository
 
-> &#9888; avoid using `charts` since this may collide with the stable chart repo, so you won't be able to fork repositories with the name `chart` anymore!
+> &#9888; avoid using `charts` as the name, this will collide with other repos such as the official one and you won't be able to fork it anymore!
 
 2. [Setup GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) pointing to the `/docs` folder. 
 
