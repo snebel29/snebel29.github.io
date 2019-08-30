@@ -40,9 +40,9 @@ Set handlers to `SIGINT`, `SIGTERM` and `SIGCHLD` and then go to Sleep, that way
 You can see the world through the eyes of a container member of existing Pods using the [toolbox](https://github.com/snebel29/toolbox) docker image, for example to join to `kube-dns-67d4f46b79-f4kzb` pod
 
 ```console
-my_pod=kube-dns-67d4f46b79-f4kzb
-pod_id=$(docker ps | grep "k8s_POD_$my_pod" | awk '{print $1}')
-docker run -it \
+$ my_pod=kube-dns-67d4f46b79-f4kzb
+$ pod_id=$(docker ps | grep "k8s_POD_$my_pod" | awk '{print $1}')
+$ docker run -it \
 	--rm \
 	--volume $(pwd):/data \
 	--pid container:${pod_id} \
